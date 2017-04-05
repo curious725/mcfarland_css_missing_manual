@@ -10,9 +10,12 @@ body {
   background-color: #e1edeb;
 }
 h1 {
+  font-family: 'Gravitas One', 'Arial Black', serif;
+  font-weight: normal;
   color: #666666;
   font-size: 3em;
   margin: 0;
+
 }
 p {
   color: #616161;

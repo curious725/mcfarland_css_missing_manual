@@ -1,3 +1,10 @@
 p {
   color: #FF6600;
 }
+.pagestyle {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 18px;
+  color: #BD8100;
+  width: 900px;
+  margin: 0 auto;
+}

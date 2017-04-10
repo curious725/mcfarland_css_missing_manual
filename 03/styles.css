@@ -31,3 +31,9 @@ h1, h2, h3 {
 .note strong {
   color: #FC6512;
 }
+h1+p {
+  color: #FF6600;
+  font-size: 1.2em;
+  line-height: 140%;
+  margin-top: 20px;
+}

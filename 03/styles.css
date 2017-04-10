@@ -11,3 +11,11 @@ h1, h2, h3 {
   padding-top: 7px;
   padding-left: 100px;
 }
+.note {
+  color: #333333;
+  border: 2px dashed #BD8110;
+  background-color: #FBF8A9;
+  margin-top: 25px;
+  margin-bottom: 35px;
+  padding: 20px;
+}

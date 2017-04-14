@@ -46,3 +46,8 @@ html {
   font-family:  PTSans, Arial, sans-serif;
   font-size: 62.5%;
 }
+.main h1 {
+  color: rgb(252, 102, 0);
+  font-family:  "Arial Black", Arial, Helvetica, sans-seriff;
+  font-size: 4em;
+}

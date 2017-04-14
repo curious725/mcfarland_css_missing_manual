@@ -50,4 +50,5 @@ html {
   color: rgb(252, 102, 0);
   font-family:  "Arial Black", Arial, Helvetica, sans-seriff;
   font-size: 4em;
+  text-shadow: 4px 3px 6px rgba(0,0,0,.5);
 }

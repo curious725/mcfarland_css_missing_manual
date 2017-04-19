@@ -137,6 +137,13 @@ a:hover {
   background-color: #6e97bf;
   border-bottom-color: #6e97bf;
 }
+a[href^="mailto:"] {
+  color: #666666;
+  border: none;
+  background: url("images/email.gif") no-repeat left center; 
+  padding-left: 20px;
+  margin-left: 10px;
+}
 .main a {
   text-decoration: none;
 }

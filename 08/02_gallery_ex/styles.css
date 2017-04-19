@@ -84,7 +84,11 @@ figure figcaption {
   margin: 10px 0 0 0;
 }
 figure {
-  float:  left;
+  display:  inline-block;
+  vertical-align: top;
   width: 210px;
   margin: 0 10px 10px 10px;
+}
+.w300 {
+  width: 310px;
 }

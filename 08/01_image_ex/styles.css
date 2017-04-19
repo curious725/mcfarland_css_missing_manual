@@ -74,4 +74,7 @@ figcaption {
   font:  bold 1em/normal Verdana, Arial, Helvetica, sans-serif;
   color: #333;
   text-align: center;
+  background-color: #e6f3ff;
+  border:  1px dashed #666;
+  padding: 5px;
 }

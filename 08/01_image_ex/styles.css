@@ -60,3 +60,10 @@ p {
 	border-top: 1px dashed #999;
 	clear: both;
 }
+img.figure {
+  float:  right;
+  margin:  10px;
+  border:  1px solid #666;
+  background-color:  #CCC;
+  padding:  10px;
+}

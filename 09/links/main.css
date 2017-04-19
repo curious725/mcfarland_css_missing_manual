@@ -163,3 +163,7 @@ a[href^="mailto:"] {
 .resources a[href$=".doc"] {
   background: url("images/word.png") no-repeat right top;
 }
+.resources a:hover {
+  color: #000;
+  background-color: rgba(255,255,255,.8);
+}

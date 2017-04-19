@@ -147,3 +147,6 @@ a[href^="mailto:"] {
 .main a {
   text-decoration: none;
 }
+.resources a {
+  border-bottom: none;
+}

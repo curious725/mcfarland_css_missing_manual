@@ -149,6 +149,7 @@ a[href^="mailto:"] {
 }
 .resources a {
   border-bottom: none;
+  padding-right: 22px;
 }
 .resources a[href^="http://"] {
   background: url("images/globe.png") no-repeat right top;

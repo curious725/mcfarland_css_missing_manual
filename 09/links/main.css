@@ -126,6 +126,7 @@ body {
 }
 a {
   color: #207ebf;
+  font-weight: bold;
 }
 .main a {
   text-decoration: none;

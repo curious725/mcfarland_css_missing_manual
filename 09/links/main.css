@@ -127,6 +127,7 @@ body {
 a {
   color: #207ebf;
   font-weight: bold;
+  border-bottom: 2px solid #f60;
 }
 .main a {
   text-decoration: none;

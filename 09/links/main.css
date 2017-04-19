@@ -129,6 +129,9 @@ a {
   font-weight: bold;
   border-bottom: 2px solid #f60;
 }
+a:visited {
+  color: #6e97bf;
+}
 .main a {
   text-decoration: none;
 }

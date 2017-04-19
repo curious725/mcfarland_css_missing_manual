@@ -150,3 +150,6 @@ a[href^="mailto:"] {
 .resources a {
   border-bottom: none;
 }
+.resources a[href^="http://"] {
+  background: url("images/globe.png") no-repeat right top;
+}

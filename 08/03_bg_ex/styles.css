@@ -91,3 +91,8 @@ table {
 	font: 14px Tahoma, Geneva, sans-serif;
 }
 
+body {
+  background-image:  url("images/bg_page.png");
+  background-repeat:  repeat-x;
+  background-color: #fff;
+}

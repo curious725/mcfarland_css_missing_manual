@@ -25,3 +25,15 @@
   background-color: #b2f511;
   background-position: 3px 50%;
 }
+.home .homeLink,
+.feature .featureLink,
+.expert .experLink,
+.quiz .quizLink,
+.project .projectLink,
+.horoscope .horoscopeLink {
+  color: #fff;
+  background-position: 97% 100%;
+  padding-right: 15px;
+  padding-left: 30px;
+  font-weight: bold;
+}

@@ -4,6 +4,7 @@
   list-style: none;
   border-left: 1px dashed #999999;
   overflow: hidden;
+  text-align: center;
 }
 .mainNav li {
   float: left;
